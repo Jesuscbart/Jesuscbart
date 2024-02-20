@@ -3,12 +3,12 @@
 
 ### &nbsp;About Me :
 - ⚡ Computer Science Student
-- 💬 Contact me: [LinkedIn](www.linkedin.com/in/jesús-cuesta-bartolomé)
+- 💬 Contact me: [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-cuesta-bartolom%C3%A9/)
   
 ---
 
 ### &nbsp;Languages and Tools :
-![](https://skillicons.dev/icons?i=py,ts,java,cpp,mongodb,mysql,postman,git,vscode&theme=light&perline=25)
+![](https://skillicons.dev/icons?i=apollo,c,cpp,css, deno, cmake, discord,git,github,gmail,graphql,html,idea,instagram,java,js,linkedin,linux,matlab,mongodb,mysql,postman,py,qt,ruby,ts,twitterpy,ts,java,cpp,mongodb,mysql,postman,git,vscode&theme=light&perline=25)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesuscbart&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
