@@ -8,7 +8,8 @@
 ---
 
 ### &nbsp;Languages and Tools :
-![](https://skillicons.dev/icons?i=apollo,c,cpp,css, deno, cmake, discord,git,github,gmail,graphql,html,idea,instagram,java,js,linkedin,linux,matlab,mongodb,mysql,postman,py,qt,ruby,ts,twitterpy,ts,java,cpp,mongodb,mysql,postman,git,vscode&theme=light&perline=25)
+[![My Skills](https://skillicons.dev/icons?i=apollo,c,cpp,css, deno, cmake, discord,git,github,gmail,graphql,html,idea,instagram,java,js,linkedin,linux,matlab,mongodb,mysql,postman,py,qt,ruby,ts,twitterpy,ts,java,cpp,mongodb,mysql,postman,git,vscode)](https://skillicons.dev)
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesuscbart&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
