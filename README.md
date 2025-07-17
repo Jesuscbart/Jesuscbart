@@ -3,7 +3,7 @@
 
 ### &nbsp;About Me :
 - ⚡ Computer Science Student
-- 💬 Contact me: [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-cuesta-bartolom%C3%A9/)
+- 💬 Contact me: [LinkedIn](https://www.linkedin.com/in/jesus-cuesta-bartolome/)
   
 ---
 
